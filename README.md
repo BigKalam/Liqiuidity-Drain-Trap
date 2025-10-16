@@ -1,4 +1,4 @@
-LiquidityDrainTrap
+LiquidityDrainTrap.
 The LiquidityDrainTrap monitors a UniswapV2-style liquidity pool on the Hoodi Testnet and detects when a significant portion of liquidity is suddenly removed from the pool.
 This helps identify potential rug pulls, panic withdrawals, or large liquidity shifts that may impact token stability.
 
